@@ -1,0 +1,18 @@
+body {
+
+    background-image: url(https://images.pexels.com/photos/46253/mt-fuji-sea-of-clouds-sunrise-46253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: 100%;
+    color: white;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+
+    
+
+}
+.circular {
+    border-radius: 50%;
+    border:5px solid white;
+
+}
